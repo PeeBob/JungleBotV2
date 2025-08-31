@@ -1,0 +1,14 @@
+All JungleBot commands
+
+!help - Links to this page
+!quote - Fetches a random quote from the quote list
+!joindate (player)- Fetches a players joindate
+!dev - Links to my github profile
+!hello - Hi!
+!y/n - Answers with yes or no
+!rps - Rock, paper, scissors minigame
+!guess - Guess the number minigame
+!8ball - 8ball answer to a question
+!kanye - Fetches random kanye tweet
+!catfact - Fetches random cat fact
+!walter - Fetches random breaking bad quote
