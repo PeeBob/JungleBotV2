@@ -13,3 +13,6 @@ All JungleBot commands
 !catfact - Fetches random cat fact
 !walter - Fetches random breaking bad quote
 !tps - Tps of the server
+!addquote (quote) - Adds a quote to the quote list
+!uptime - Bot uptime
+!roast (player) Fetches a roast from  RoastAPI
