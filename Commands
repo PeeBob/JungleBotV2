@@ -16,3 +16,5 @@ All JungleBot commands
 !addquote (quote) - Adds a quote to the quote list
 !uptime - Bot uptime
 !roast (player) Fetches a roast from  RoastAPI
+!dupe - Helps you dupe!
+!discord - Invites you to the community discord
